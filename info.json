@@ -1,0 +1,11 @@
+{
+    "name": "Clicheishish",
+    "version": "0.1.0",
+    "title": "Clicheishish",
+    "author": "matthyno/Potassonic",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.18",
+    "dependencies": ["base >= 0.18"],
+    "description": "This mod adds in random additions to make life in Factorio easier, or harder sometimes."
+}
